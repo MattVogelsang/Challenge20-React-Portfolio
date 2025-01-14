@@ -6,12 +6,11 @@ function Contact(){
                 <div class="flex-1 rounded-xl px-10 py-12 m-5 bg-white bg-opacity-80 tm-item-container-contact">
                     <h2 class="text-3xl mb-6 tm-text-green">Contact Us</h2>
                     <p class="mb-6 text-lg leading-8">
-                        Praesent tellus magna, consectetur sit amet volutpat eu, pulvinar vitae sem.
-                        Sed ultrices. bg white 80% alpha. btn #066    
+                        Feel Free to Reach out anytime. On call 24/7   
                     </p>
                     <p class="mb-10 text-lg">
-                        <span class="block mb-2">Tel: <a href="tel:0100200340" class="hover:text-yellow-600 transition">010-020-0340</a></span>
-                        <span class="block">Email: <a href="mailto:info@company.com" class="hover:text-yellow-600 transition">info@company.com</a></span>                        
+                        <span class="block mb-2">Tel: <a href="tel:0100200340" class="hover:text-yellow-600 transition">954-668-8674</a></span>
+                        <span class="block">Email: <a href="mailto:info@company.com" class="hover:text-yellow-600 transition">Vogelsangmatt@gmail.com</a></span>                        
                     </p>
                     <div class="text-center">
                         <a href="https://www.google.com/maps" class="inline-block text-white text-2xl pl-10 pr-12 py-6 rounded-lg transition tm-bg-green">
@@ -33,7 +32,7 @@ function Contact(){
             </div>
             <footer class="absolute bottom-0 left-0 w-full">
                 <div class="text-white container mx-auto tm-container p-8 text-lg flex flex-col md:flex-row justify-between">
-                    <span>Copyright 2022 Antique Cafe. All rights reserved.</span>
+                    <span>Copyright 2025 Matthew Vogelsang. All rights reserved.</span>
                     <span class="mt-5 md:mt-0">Design: <a href="https://www.tooplate.com" target="_parent">Tooplate</a></span>
                 </div>                
             </footer>

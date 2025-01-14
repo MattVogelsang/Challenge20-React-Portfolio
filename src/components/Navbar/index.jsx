@@ -1,5 +1,6 @@
 function NavBar({handlePageChange,currentPage}){
     return <>
+    <div class="row">
      <div id="intro" class="parallax-window" data-parallax="scroll" data-image-src="img/antique-cafe-bg-01.jpg">
         <nav id="tm-nav" class="fixed w-full">
             <div class="tm-container mx-auto px-2 md:py-6 text-right">
@@ -15,6 +16,7 @@ function NavBar({handlePageChange,currentPage}){
             </div>            
         </nav>
           
+    </div>
     </div>
     </>
 }

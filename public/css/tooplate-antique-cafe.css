@@ -7,10 +7,6 @@ https://www.tooplate.com/view/2126-antique-cafe
 */
 
 
-body {
-    font-family: 'Raleway', sans-serif;
-    background-color: #666;
-}
 
 p a {
 	color: #FF6;
@@ -31,14 +27,15 @@ footer span a { color: #FFF; }
     font-family: 'Oswald', sans-serif;
 }
 
+
+
+
 .tm-container {
     max-width: 1200px;
+    
 }
 
-. {
-    min-height: 1064px;
-    background: transparent;
-}
+
 
 .tm-text-yellow {
     color: #FC6;
@@ -79,6 +76,9 @@ a.tm-bg-green:hover {
 .tm-item-container {
     margin-top: 5px;
     max-width: 520px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
      
 }
 
@@ -133,6 +133,27 @@ textarea::-ms-input-placeholder { /* Microsoft Edge */
     font-size: 1.2rem;
     line-height: 2rem;
 }
+.parallax-window{
+    display: flex;
+    flex-direction: column;
+}
+.feed{
+    display: flex;
+    flex-direction: column;
+}
+.row{
+    display: flex;
+}
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: #666;
+    display: block;
+}
+.root{
+    display: flex;
+    flex-direction: column;
+}
+
 
 @media (min-width: 768px) {
     #tm-nav.scroll .tm-container {
