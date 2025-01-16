@@ -1,5 +1,9 @@
 # React Portfolio
 
+![](img/sc.jpg)
+
+<a href='https://illustrious-piroshki-d8a385.netlify.app/' > Live Link on Netlify </a>
+
 ## Description
 
 This project is a single-page application (SPA) portfolio built with React. The portfolio is designed to showcase a developer’s work and demonstrate their ability to create interactive, responsive, and professional web applications. It includes sections for About Me, Portfolio, Contact, and Resume, each designed to highlight key aspects of the developer's skills and experience.
